@@ -1,2 +1,3 @@
 name: Bijendra Khadka
 markdown: Bioinformatics
+permalink: /blog/:year/:month/:day/:title
